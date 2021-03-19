@@ -2,7 +2,7 @@
 %% Nil Gurel - 2021.03.19 [ngurel@mednet.ucla.edu]
 %% 
 %% Uses allegoXDatFileReader.m functions for parsing
-%% download allegoXDatFileReader here: https://neuronexus.com/allego-software-downloads-page/
+%% Download allegoXDatFileReader here: https://neuronexus.com/allego-software-downloads-page/
 
 % with current folder set to C:\Users\SmartBox\radix\data\2021.03.17_NNX_data_collection, list available files
 dir
